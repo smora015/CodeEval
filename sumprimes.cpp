@@ -1,20 +1,20 @@
-/*
+/**
 (c) Sergio Morales 2013
  CodeEval Challenge: Sum of Primes
  Date Solved: 12/04/13
-*/
+**/
 
 
 #include <iostream>
 using namespace std;
 
 
-/*
+/**
   function:    is_prime
   description: Determines if the input is prime or not.
   return:      True if the input is prime
                False otherwise
-*/
+**/
 bool is_prime(int num);
 
 int main() {
