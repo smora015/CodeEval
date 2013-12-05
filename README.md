@@ -7,13 +7,14 @@ All of the challenges are solved using code written solely by me, Sergio Morales
 
 The Following CodeEval Challenges have been 100% solved:
 
-- Fizz Buzz (C++)
+- Fizz Buzz     (C++)
 - Sum of Primes (C++)
 - Reverse Words (JavaScript)
+- Lowercase     (Python)
 
 Total
 =====
 
-3/3   Attempted
+4/4   Attempted
 
-3/121 Completions
+4/121 Completions
