@@ -18,9 +18,8 @@ The Following CodeEval Challenges have been 100% solved:
 Total
 =====
 
-7/7   Attempted
-7/41  Easy Completed
-0/41  Moderate Completed
-0/40  Hard Completed
------------------------
-7/121 Total Completions
+- 7/7   Attempted 
+- 7/41  Easy Completed 
+- 0/41  Moderate Completed 
+- 0/40  Hard Completed 
+7/121 Total Completions 
