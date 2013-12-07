@@ -25,4 +25,4 @@ Out of 7 Attemped:
 - 7/41  Easy Completed 
 - 0/41  Moderate Completed 
 - 0/40  Hard Completed 
-7/121 Total Completions 
+- 7/121 Total Completions 
