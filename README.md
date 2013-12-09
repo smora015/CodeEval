@@ -10,7 +10,7 @@ on usage permissions.
 
 The Following CodeEval Challenges have been 100% solved:
 
-- Fizz Buzz    %20    (C++)
+- Fizz Buzz        (C++)
 - Sum of Primes    (C++)
 - Reverse Words    (JavaScript)
 - Fibonacci Series (JavaScript)
