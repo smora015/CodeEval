@@ -19,14 +19,15 @@ The Following CodeEval Challenges have been 100% solved:
 - Penultimate Word (JavaScript)
 - Odd Numbers      (Python)
 - Lowercase        (Python)
+- Swap Case        (Python)
 
 Total
 =====
 
-Out of 9 Attemped:
+Out of 10 Attemped:
 
 - 2/?   Non-rated Completed
-- 6/41  Easy Completed 
+- 7/41  Easy Completed 
 - 0/41  Moderate Completed 
 - 0/40  Hard Completed 
-- 9/121 Total Completions 
+- 10/121 Total Completions 
