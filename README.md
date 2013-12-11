@@ -18,16 +18,17 @@ The Following CodeEval Challenges have been 100% solved:
 - Mixed Content    (JavaScript)
 - Penultimate Word (JavaScript)
 - Odd Numbers      (Python)
+- Even Numbers     (Python)
 - Lowercase        (Python)
 - Swap Case        (Python)
 
 Total
 =====
 
-Out of 10 Attemped:
+Out of 11 Attemped:
 
-- 2/?   Non-rated Completed
-- 7/41  Easy Completed 
+- 3/?   Non-rated Completed
+- 8/41  Easy Completed 
 - 0/41  Moderate Completed 
 - 0/40  Hard Completed 
-- 10/121 Total Completions 
+- 11/121 Total Completions 
