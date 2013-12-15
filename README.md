@@ -22,10 +22,15 @@ The Following CodeEval Challenges have been 100% solved:
 - Lowercase        (Python)
 - Swap Case        (Python)
 
+To be Solved:
+
+- Swap Elements
+- Capitalize Words
+- Unique Elements
 Total
 =====
 
-Out of 11 Attemped:
+Out of 14 Attemped:
 
 - 3/?   Non-rated Completed
 - 8/41  Easy Completed 
