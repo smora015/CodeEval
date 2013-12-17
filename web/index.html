@@ -1,46 +1,36 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title> My Programs in JavaScript </title>
-<script>
-
-function captwords() {
-
-var fs ="";
-var list="z6amTPcq z1UiI 6sS0DNaXdzwszSsLw4W8JxsDIH5LXPPQ"+"<br>"+"VfTuw5dIL9QyUP bMuP JWkasF GE9jhXLo9lnAbPfYoH";
-list.split("\n").forEach( function(line){
-    if(line !== "") {
-	    var words = line.split(" ");
-	    for(var i = 0; i < words.length; ++i){
-        var letter = words[i][0];
-        
-        if(letter <= 'z'&& letter >= 'a'){
-          letter = String.fromCharCode(letter.charCodeAt()-32);
-        }
-      
-        //alert("Caught: "+" \n "+letter+" in "+words[i]);
-        fs = fs + letter + words[i].substr(1) + " ";
-    }
-    
-    fs = fs + "<br>";
-    }
-
-});
-
-document.getElementById("demo").innerHTML="Input: "+"<br>"+list;
-document.getElementById("result").innerHTML="Results: "+"<br>"+fs;
-}
-</script>
+	<title> My Programs in JavaScript</title>
+	<script src="sources/captwords.js"></script>
+	<script src="sources/listelement.js"></script>
 </head>
 
 <body>
+	<h3> Access Element by ID </h3>
+	<p> The following example takes in input as an argument to the JavaScript text
+	by using document.getElementById() and capitalizes all words.</p>
+	
+	<input type='text' id='capwords' value='enter text here to capitalize!'></input>
+	<input type="button" onclick="captwords()" value="My Capitalize Words function!"></input>
+	
+	<!--<p id="capwords">z6amTPcq z1UiI 6sS0DNaXdzwszSsLw4W8JxsDIH5LXPPQ<br>
+	VfTuw5dIL9QyUP bMuP JWkasF GE9jhXLo9lnAbPfYoH</p> <br><br> -->
+	
+	<p id="result">Result</p>
 
 
-<p id="demo">Result</p> <br><br>
-<p id="result">Answer</p>
 
-<button type="button" onclick="captwords()">My Capitalize Words function!</button>
-
+	
+	<h3> Limit Search by Parent Element</h3>
+	<ol id="people">
+	<li>John</li>
+	<li>Rodger</li>
+	<li>Hugo</li>
+	</ol>
+	
+	<button type="button" onclick="listelement()">List First li Element!</button>
+	<p id="result1">Result</p>
 </body>
 
 
