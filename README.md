@@ -25,9 +25,8 @@ The Following CodeEval Challenges have been 100% solved:
 
 To be Solved:
 
-- Swap Elements
 - Unique Elements
-
+- Multiply Lists
 
 Total
 =====
