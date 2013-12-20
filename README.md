@@ -24,7 +24,8 @@ The Following CodeEval Challenges have been 100% solved:
 - Lowercase        (Python)
 - Swap Case        (Python)
 - Swap Elements    (Java)
-- 
+
+
 To be Solved:
 
 - Unique Elements
