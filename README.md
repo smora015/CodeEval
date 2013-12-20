@@ -18,15 +18,18 @@ The Following CodeEval Challenges have been 100% solved:
 - Mixed Content    (JavaScript)
 - Penultimate Word (JavaScript)
 - Capitalize Words (JavaScript)
+- Multiply Lists   (Python)
 - Odd Numbers      (Python)
 - Even Numbers     (Python)
 - Lowercase        (Python)
 - Swap Case        (Python)
-
+- Swap Elements    (Java)
+- 
 To be Solved:
 
 - Unique Elements
-- Multiply Lists
+- Multiplication Tables
+
 
 Total
 =====
@@ -34,7 +37,8 @@ Total
 Out of 14 Attemped:
 
 - 3/?   Non-rated Completed
-- 9/41  Easy Completed 
+- 11/41  Easy Completed 
 - 0/41  Moderate Completed 
 - 0/40  Hard Completed 
-- 12/121 Total Completions 
+- 14/121 Total Completions 
+
