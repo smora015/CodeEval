@@ -1,12 +1,31 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
-	<title> My Programs in JavaScript</title>
-	<script src="sources/captwords.js"></script>
-	<script src="sources/listelement.js"></script>
+	<script src="./sources/docwrite.js"></script>
+	<script src="./sources/captwords.js"></script>
+	<script src="./sources/listelement.js"></script>
+	<script src="./sources/eventtypes.js"></script>
+
+	<style>
+	#gameboard
+	{
+		box-align:center;
+		background-color:orange;
+		margin:auto;
+		outline-style:dotted;
+	}
+	.ingameboard
+	{
+		background-color:blue;
+	}
+	</style>
 </head>
 
-<body>
+<body	onkeydown="getEvtType(event)"
+	onkeyup="getEvtType(event)"
+	onmousedown="getEvtType(event)"
+	onmouseup="getEvtType(event)">
+	
 	<h3> Access Element by ID </h3>
 	<p> The following example takes in input as an argument to the JavaScript text
 	by using document.getElementById() and capitalizes all words.</p>
@@ -14,13 +33,7 @@
 	<input type='text' id='capwords' value='enter text here to capitalize!'></input>
 	<input type="button" onclick="captwords()" value="My Capitalize Words function!"></input>
 	
-	<!--<p id="capwords">z6amTPcq z1UiI 6sS0DNaXdzwszSsLw4W8JxsDIH5LXPPQ<br>
-	VfTuw5dIL9QyUP bMuP JWkasF GE9jhXLo9lnAbPfYoH</p> <br><br> -->
-	
 	<p id="result">Result</p>
-
-
-
 	
 	<h3> Limit Search by Parent Element</h3>
 	<ol id="people">
@@ -29,9 +42,15 @@
 	<li>Hugo</li>
 	</ol>
 	
-	<button type="button" onclick="listelement()">List First li Element!</button>
 	<p id="result1">Result</p>
+	<button type="button" onclick="listelement()">List First li Element!</button>
+	<br>
+	<br>
+	
+	<h3> Using Events and Handling Types</h3>
+	<p> The following script allows the user to see what type of event was used. <br> Press any key or click the mouse here to get the event type.</p>
+	<p>Event type: <span id="Etype">-</span></p>
+	<p>Key pressed (ASCII): <span id="KeyPressed">-</span></p>
+	
 </body>
-
-
 </html>
