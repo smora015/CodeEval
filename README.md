@@ -24,22 +24,23 @@ The Following CodeEval Challenges have been 100% solved:
 - Lowercase        (Python)
 - Swap Case        (Python)
 - Swap Elements    (Java)
+- Unique Elements  (Java)
+- Longest Words    (Java)
 
 
 To be Solved:
 
-- Unique Elements
 - Multiplication Tables
 
 
 Total
 =====
 
-Out of 14 Attemped:
+Out of 16 Attemped:
 
-- 3/?   Non-rated Completed
-- 11/41  Easy Completed 
-- 0/41  Moderate Completed 
-- 0/40  Hard Completed 
+- 4/?    Non-rated Completed
+- 12/41  Easy Completed 
+- 0/41   Moderate Completed 
+- 0/40   Hard Completed 
 - 14/121 Total Completions 
 
