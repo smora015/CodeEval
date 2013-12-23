@@ -10,37 +10,33 @@ on usage permissions.
 
 The Following CodeEval Challenges have been 100% solved:
 
-- Fizz Buzz        (C++)
-- Sum of Primes    (C++)
-- Reverse Words    (JavaScript)
-- Fibonacci Series (JavaScript)
-- N Mod M          (JavaScript)
-- Mixed Content    (JavaScript)
-- Penultimate Word (JavaScript)
-- Capitalize Words (JavaScript)
-- Multiply Lists   (Python)
-- Odd Numbers      (Python)
-- Even Numbers     (Python)
-- Lowercase        (Python)
-- Swap Case        (Python)
-- Swap Elements    (Java)
-- Unique Elements  (Java)
-- Longest Words    (Java)
-
-
-To be Solved:
-
-- Multiplication Tables
+- Fizz Buzz             (C++)     
+- Sum of Primes         (C++)
+- Multiplication Tables (C++)
+- Reverse Words         (JavaScript)
+- Fibonacci Series      (JavaScript)
+- N Mod M               (JavaScript)
+- Mixed Content         (JavaScript)
+- Penultimate Word      (JavaScript)
+- Capitalize Words      (JavaScript)
+- Multiply Lists        (Python)
+- Odd Numbers           (Python)
+- Even Numbers          (Python)
+- Lowercase             (Python)
+- Swap Case             (Python)
+- Swap Elements         (Java)
+- Unique Elements       (Java)
+- Longest Words         (Java)
 
 
 Total
 =====
 
-Out of 16 Attemped:
+Out of 17 Attemped:
 
 - 4/?    Non-rated Completed
-- 12/41  Easy Completed 
+- 13/41  Easy Completed 
 - 0/41   Moderate Completed 
 - 0/40   Hard Completed 
-- 14/121 Total Completions 
+- 17/121 Total Completions 
 
