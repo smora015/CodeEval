@@ -28,6 +28,12 @@ The Following CodeEval Challenges have been 100% solved:
 - Unique Elements       (Java)
 - Longest Words         (Java)
 
+To Be Solved:
+- Hex to Decimal
+- Rightmost Char
+- Set Intersection
+- File Size
+
 
 Total
 =====
